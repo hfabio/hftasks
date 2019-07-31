@@ -2,7 +2,13 @@ It's a simple project to see anyone's projects list from github.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This is the initial interface
+
 ![interface hftasks](https://user-images.githubusercontent.com/15989467/62185388-a3d9a100-b338-11e9-9dbe-58f9203a632a.PNG)
+
+## And its draggable to another list or re-ordenable
+
+![draggable](https://user-images.githubusercontent.com/15989467/62185490-18144480-b339-11e9-8d8a-b4f50f1161ff.png)
 
 
 ## Getting started
